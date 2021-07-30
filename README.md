@@ -37,6 +37,6 @@ Os dados adquiridos do ERA5 são do [ERA5 hourly data on single levels from 1979
 * numpy
 * pandas
 * xarray
-* csdapi
+* cdsapi
 * os
 * glob
