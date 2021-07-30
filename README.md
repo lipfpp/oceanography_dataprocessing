@@ -1,6 +1,3 @@
-# oceanography_dataprocessing
-
-
 ## Importante: para rodar a rotina é necessário ter o CDS API instalado
 
 *PASSOS PARA INSTALAR O CDS API*
