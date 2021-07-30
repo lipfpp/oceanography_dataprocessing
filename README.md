@@ -22,7 +22,7 @@ conda install cdsapi*
 
 Os dados adquiridos do ERA5 são do [ERA5 hourly data on single levels from 1979 to present](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview). Para adquirir dados com níveis de pressão específicos [https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview) é preciso inserir a variável e os níveis de pressão de interesse ``'pressure_level': ['825','850',....]``
 
-* *A rotina estar configurada para realizar aquisição dos dados horários (a cada 1h) do ERA5, para todos os dias e meses do intervalo de tempo desejado.* 
+* *A rotina estar configurada para realizar aquisição dos dados horários (resolução temporal de 1h) do ERA5 para todos os dias e meses para o intervalo de tempo desejado. O arquivo de saída da rotina será um .nc com médias diárias.* 
 
 * *A única alteração que deve ser feita pelo usuário é determinar os diretórios para os arquivos de saída.*
 
@@ -39,4 +39,4 @@ Os dados adquiridos do ERA5 são do [ERA5 hourly data on single levels from 1979
 * xarray
 * csdapi
 * os
-* glog
+* glob
