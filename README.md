@@ -6,7 +6,7 @@
 
 Fazer o cadastro no site da [Climate Data Store](https://cds.climate.copernicus.eu/#!/home)
 
->**2. Adicionar a chave e instalando o pacote CDS API no Python**
+>**2. Adicionar a chave e instalar o pacote CDS API no Python**
 
 Este [LINK](https://cds.climate.copernicus.eu/api-how-to#install-the-cds-api-key) mostra como adicionar a chave e como realizar a instalação do biblioteca CDS API no Python.
 
