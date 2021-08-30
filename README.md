@@ -15,7 +15,7 @@ A instalação do pacote pode ser feito pelo gerenciador de pacotes PIP ou CONDA
 ou\
 conda install cdsapi*
 
-***Caso encontrem dificuldades em instalar o CDS API, o vídeo no link a seguir mostra o passo a passo detalhadamente.***
+***Caso encontrem dificuldades em instalar o CDS API, o vídeo no link a seguir mostra o passo a passo detalhado.***
 [VÍDEO](https://www.youtube.com/watch?v=NHbvfggMC10&ab_channel=CopernicusECMWF)
 
 <hr style="border:1px solid lightblue"> </hr>
